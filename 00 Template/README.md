@@ -1,9 +1,8 @@
-# Obsidian Git Template for Course
-
-## Recommend Plug-in
+# Recommended Plugins
 - Calendar
 - code-block-copy
 - dataview
+- obsidian-admonition
 - obsidian-git
 - obsidian-kanban
 - obsidian-outliner
